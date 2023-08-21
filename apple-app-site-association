@@ -1,20 +1,7 @@
 {
     "webcredentials": {
         "apps": [
-            "ai.caspar.casparcare",
-        ]
-    },
-    "applinks": {
-        "apps": [
-            "ai.caspar.casparcare", 
-        ],
-        "details": [
-            {
-                "appID": "ai.caspar.casparcare",
-                "paths": [
-                    "*"
-                ]
-            }
+            "J9WBXKTGGU.ai.caspar.casparcare",
         ]
     }
 }
