@@ -14,6 +14,12 @@ body {
   color: #272829;
 }
 
+.custom-rounded {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+
 a {
   color: #149ddd;
   text-decoration: none;
